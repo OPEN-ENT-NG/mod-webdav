@@ -5,3 +5,6 @@
 * Développeur(s) : Edifice
 * Description : module asynchrone de gestion du protocole webdav pour Vertx.
 
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/mod-webdav
